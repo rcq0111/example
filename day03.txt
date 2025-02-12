@@ -13,3 +13,5 @@ temp삭제
 
 git log --oneline
 git log --oneline --graph
+
+git remote -v 현재 원격 로칼 주소만 알 수 있다.
