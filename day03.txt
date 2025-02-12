@@ -1,0 +1,15 @@
+git branch
+* main
+git branch temp
+git switch temp
+main -> temp
+git checkout main 
+temp -> main
+git merge temp
+main에 temp 병합
+
+git branch -d temp
+temp삭제
+
+git log --oneline
+git log --oneline --graph
